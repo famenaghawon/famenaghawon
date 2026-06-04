@@ -1,6 +1,6 @@
 # Freedom Amenaghawon
 
-Founder & CEO, PrimeShieldHub
+Founder & CEO, PrimeShieldHub Gadgets Limited
 
 Bioinformatics Researcher | Full-Stack Developer | Cloud Architect
 
