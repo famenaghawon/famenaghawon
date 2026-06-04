@@ -1,16 +1,43 @@
-## Hi there 👋
+# Freedom Amenaghawon
 
-<!--
-**famenaghawon/famenaghawon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO, PrimeShieldHub
 
-Here are some ideas to get you started:
+Bioinformatics Researcher | Full-Stack Developer | Cloud Architect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a multidisciplinary technology professional working at the intersection of:
+
+- Bioinformatics
+- Artificial Intelligence
+- Data Analytics
+- Cloud Computing
+- Software Engineering
+- Digital Commerce
+
+## Current Projects
+
+### PrimeShieldHub
+Nigeria's premium gadgets and technology commerce platform.
+
+🌐 https://primeshieldhub.com
+
+### BioCompute Nexus
+Advanced bioinformatics and computational biology research initiatives.
+
+## Technical Stack
+
+- Python
+- JavaScript
+- Cloudflare
+- SQL
+- Power BI
+- Tableau
+- Excel
+- Cloud Computing
+
+## Connect
+
+🌐 https://primeshieldhub.com
+
+GitHub: https://github.com/famenaghawon
